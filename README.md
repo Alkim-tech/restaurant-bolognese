@@ -4,7 +4,7 @@ The project aims to provide “Restaurant Bolognese” website to serve its cust
 
 ## Live Site
 
-Web site is deployed into "https://****\*\*****.com" and can be accessible through [this link]("https://localhost:3000").
+Web site is deployed into "adaptable.app" and can be accessible through [this link]("https://localhost:3000").
 
 ## Users
 
